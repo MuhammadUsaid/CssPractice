@@ -1,2 +1,2 @@
 #HELLO TO THE WORLD
-##This is the repostory where I practice my css
+##This is the repository where I practice my css
